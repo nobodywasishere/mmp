@@ -1883,7 +1883,7 @@
 		)
 		(uuid "fb0863ca-014d-43a2-86ed-441841a6ac01")
 	)
-	(label "row2"
+	(label "row1"
 		(at 39.37 71.12 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1916,7 +1916,7 @@
 		)
 		(uuid "31853f1f-36b4-4da1-a3d8-f46e9f665af7")
 	)
-	(label "row0"
+	(label "row3"
 		(at 39.37 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1927,7 +1927,7 @@
 		)
 		(uuid "33fb32b7-e8f2-43de-80f6-e44ba79d2fc4")
 	)
-	(label "ext0"
+	(label "ext3"
 		(at 69.85 120.65 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1938,7 +1938,7 @@
 		)
 		(uuid "37cd0784-c63b-4bc9-8f52-0fb8e65138e2")
 	)
-	(label "ext0"
+	(label "col0"
 		(at 39.37 76.2 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1971,7 +1971,7 @@
 		)
 		(uuid "59573e94-7e32-470c-8a53-360303be8e97")
 	)
-	(label "col1"
+	(label "ext1"
 		(at 90.17 73.66 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1982,7 +1982,7 @@
 		)
 		(uuid "5f8deb9b-b98e-4d55-8d59-70b568d5395d")
 	)
-	(label "ext1"
+	(label "ext2"
 		(at 69.85 118.11 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2004,7 +2004,7 @@
 		)
 		(uuid "68fa50f2-ddea-47a2-a18b-86936cd670a6")
 	)
-	(label "col2"
+	(label "ext0"
 		(at 90.17 76.2 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2026,7 +2026,7 @@
 		)
 		(uuid "86a074b0-cb5a-44c5-87bd-d3b62c9c3186")
 	)
-	(label "col0"
+	(label "ext2"
 		(at 90.17 71.12 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2037,7 +2037,7 @@
 		)
 		(uuid "87fa34ef-80dd-40cc-90ea-e40a8f4cb2f3")
 	)
-	(label "ext1"
+	(label "col1"
 		(at 39.37 78.74 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2048,7 +2048,7 @@
 		)
 		(uuid "8fec1e14-cbde-46ed-a7dc-3cc820e75839")
 	)
-	(label "ext2"
+	(label "col2"
 		(at 90.17 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2081,7 +2081,7 @@
 		)
 		(uuid "9839588f-9ab9-47c1-a47f-bf539248ab68")
 	)
-	(label "ext2"
+	(label "ext1"
 		(at 69.85 115.57 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2092,7 +2092,7 @@
 		)
 		(uuid "ac992cde-bbd4-43b6-b025-163e6902e607")
 	)
-	(label "ext3"
+	(label "ext0"
 		(at 69.85 113.03 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2103,7 +2103,7 @@
 		)
 		(uuid "b3f8d204-a300-4ae1-93de-49f186b7ed8c")
 	)
-	(label "row1"
+	(label "row2"
 		(at 39.37 68.58 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2114,7 +2114,7 @@
 		)
 		(uuid "f0e45a75-852d-43e8-a01e-202cfd57dc21")
 	)
-	(label "row3"
+	(label "row0"
 		(at 39.37 73.66 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2153,7 +2153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 179.07 109.22 0)
 			(effects
 				(font
@@ -2239,7 +2239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 161.29 62.23 0)
 			(effects
 				(font
@@ -2307,7 +2307,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 138.43 100.33 0)
 			(effects
 				(font
@@ -2509,7 +2509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 179.07 71.12 0)
 			(effects
 				(font
@@ -2595,7 +2595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 184.15 43.18 0)
 			(effects
 				(font
@@ -2663,7 +2663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 138.43 43.18 0)
 			(effects
 				(font
@@ -2731,7 +2731,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 184.15 100.33 0)
 			(effects
 				(font
@@ -2799,7 +2799,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -2867,7 +2867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADAFRUIT_QT_PY:MODULE_ADAFRUIT_QT_PY"
+		(property "Footprint" "qtpy:MODULE_ADAFRUIT_QT_PY"
 			(at 67.31 71.12 0)
 			(effects
 				(font
@@ -3104,7 +3104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 133.35 109.22 0)
 			(effects
 				(font
@@ -3190,7 +3190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 161.29 81.28 0)
 			(effects
 				(font
@@ -3258,7 +3258,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 64.77 115.57 0)
 			(effects
 				(font
@@ -3406,7 +3406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 133.35 71.12 0)
 			(effects
 				(font
@@ -3492,7 +3492,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 184.15 81.28 0)
 			(effects
 				(font
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -3630,7 +3630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 156.21 52.07 0)
 			(effects
 				(font
@@ -3718,7 +3718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 179.07 52.07 0)
 			(effects
 				(font
@@ -3804,7 +3804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 138.43 81.28 0)
 			(effects
 				(font
@@ -3940,7 +3940,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 133.35 90.17 0)
 			(effects
 				(font
@@ -4028,7 +4028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 156.21 90.17 0)
 			(effects
 				(font
@@ -4116,7 +4116,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 156.21 109.22 0)
 			(effects
 				(font
@@ -4204,7 +4204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -4292,7 +4292,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 156.21 71.12 0)
 			(effects
 				(font
@@ -4378,7 +4378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 161.29 100.33 0)
 			(effects
 				(font
@@ -4446,7 +4446,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
 			(at 161.29 43.18 0)
 			(effects
 				(font
@@ -4516,7 +4516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
 			(at 133.35 52.07 0)
 			(effects
 				(font

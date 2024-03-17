@@ -1938,7 +1938,7 @@
 		)
 		(uuid "37cd0784-c63b-4bc9-8f52-0fb8e65138e2")
 	)
-	(label "col0"
+	(label "col2"
 		(at 39.37 76.2 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2048,7 +2048,7 @@
 		)
 		(uuid "8fec1e14-cbde-46ed-a7dc-3cc820e75839")
 	)
-	(label "col2"
+	(label "col0"
 		(at 90.17 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2153,7 +2153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 179.07 109.22 0)
 			(effects
 				(font
@@ -2239,7 +2239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 161.29 62.23 0)
 			(effects
 				(font
@@ -2307,7 +2307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 138.43 100.33 0)
 			(effects
 				(font
@@ -2509,7 +2509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 179.07 71.12 0)
 			(effects
 				(font
@@ -2595,7 +2595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 184.15 43.18 0)
 			(effects
 				(font
@@ -2663,7 +2663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 138.43 43.18 0)
 			(effects
 				(font
@@ -2731,7 +2731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 184.15 100.33 0)
 			(effects
 				(font
@@ -2799,7 +2799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -3104,7 +3104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 133.35 109.22 0)
 			(effects
 				(font
@@ -3190,7 +3190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 161.29 81.28 0)
 			(effects
 				(font
@@ -3406,7 +3406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 133.35 71.12 0)
 			(effects
 				(font
@@ -3492,7 +3492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 184.15 81.28 0)
 			(effects
 				(font
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -3630,7 +3630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 156.21 52.07 0)
 			(effects
 				(font
@@ -3718,7 +3718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 179.07 52.07 0)
 			(effects
 				(font
@@ -3804,7 +3804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 138.43 81.28 0)
 			(effects
 				(font
@@ -3940,7 +3940,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 133.35 90.17 0)
 			(effects
 				(font
@@ -4028,7 +4028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 156.21 90.17 0)
 			(effects
 				(font
@@ -4116,7 +4116,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 156.21 109.22 0)
 			(effects
 				(font
@@ -4204,7 +4204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -4292,7 +4292,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 156.21 71.12 0)
 			(effects
 				(font
@@ -4378,7 +4378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 161.29 100.33 0)
 			(effects
 				(font
@@ -4446,7 +4446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "mx_solderable:MX-Solderable-1U"
 			(at 161.29 43.18 0)
 			(effects
 				(font
@@ -4516,7 +4516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 133.35 52.07 0)
 			(effects
 				(font

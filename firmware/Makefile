@@ -16,6 +16,7 @@ smoketest: FORCE
 	tinygo build -o ./out/xiao-kb01.uf2       --target xiao-rp2040           --size short ./targets/xiao-kb01/
 	tinygo build -o ./out/tut-gpio.uf2        --target xiao-rp2040           --size short ./tutorial/gpio/
 	tinygo build -o ./out/tut-gpio-vial.uf2   --target xiao-rp2040           --size short ./tutorial/gpio-vial/
+	tinygo build -o ./out/mmp.uf2             --target qtpy                  --size short ./targets/mmp/
 
 FORCE:
 

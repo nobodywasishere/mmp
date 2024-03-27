@@ -2,3 +2,4 @@
 **/production/*.csv
 **/production/*.ipc
 **/production/
+/out

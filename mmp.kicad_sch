@@ -1883,6 +1883,28 @@
 		)
 		(uuid "fb0863ca-014d-43a2-86ed-441841a6ac01")
 	)
+	(label "ext1"
+		(at 39.37 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "04900713-bdc9-4877-8ccd-d13ba0d68287")
+	)
+	(label "col2"
+		(at 90.17 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "060424b5-f6e9-4a5d-9d5f-011ef4f5d414")
+	)
 	(label "row1"
 		(at 39.37 71.12 0)
 		(fields_autoplaced yes)
@@ -1938,8 +1960,8 @@
 		)
 		(uuid "37cd0784-c63b-4bc9-8f52-0fb8e65138e2")
 	)
-	(label "col2"
-		(at 39.37 76.2 0)
+	(label "col1"
+		(at 90.17 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1947,7 +1969,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "3fcfbd90-9fb5-414a-9ccb-eea8b38a8642")
+		(uuid "491ab530-4dab-4a71-8254-818047c64587")
 	)
 	(label "row3"
 		(at 125.73 113.03 0)
@@ -1971,17 +1993,6 @@
 		)
 		(uuid "59573e94-7e32-470c-8a53-360303be8e97")
 	)
-	(label "ext1"
-		(at 90.17 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5f8deb9b-b98e-4d55-8d59-70b568d5395d")
-	)
 	(label "ext2"
 		(at 69.85 118.11 0)
 		(fields_autoplaced yes)
@@ -2004,17 +2015,6 @@
 		)
 		(uuid "68fa50f2-ddea-47a2-a18b-86936cd670a6")
 	)
-	(label "ext0"
-		(at 90.17 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "81301d05-740d-4cb7-bc2d-3a04b027f945")
-	)
 	(label "col1"
 		(at 166.37 31.75 0)
 		(fields_autoplaced yes)
@@ -2036,17 +2036,6 @@
 			(justify left bottom)
 		)
 		(uuid "87fa34ef-80dd-40cc-90ea-e40a8f4cb2f3")
-	)
-	(label "col1"
-		(at 39.37 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8fec1e14-cbde-46ed-a7dc-3cc820e75839")
 	)
 	(label "col0"
 		(at 90.17 66.04 0)
@@ -2091,6 +2080,17 @@
 			(justify left bottom)
 		)
 		(uuid "ac992cde-bbd4-43b6-b025-163e6902e607")
+	)
+	(label "ext0"
+		(at 39.37 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b151dc34-dcb6-4bbf-93ee-0239305e69ec")
 	)
 	(label "ext0"
 		(at 69.85 113.03 0)

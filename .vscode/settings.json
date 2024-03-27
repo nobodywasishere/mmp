@@ -1,0 +1,8 @@
+{
+  "go.toolsEnvVars": {
+    "GOOS": "linux",
+    "GOARCH": "arm",
+    "GOROOT": "/home/margret/.cache/tinygo/goroot-9c236da82c2ce16303d51dc7635261f33d2c6bc8180628c7b6806ae789ca6c8b",
+    "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,atsamd21e18a,atsamd21e18,atsamd21,sam,qtpy,tinygo,purego,math_big_pure_go,gc.conservative,scheduler.tasks,serial.usb"
+  }
+}
